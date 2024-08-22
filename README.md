@@ -1,2 +1,3 @@
 # autoTest
-Just a sample test project
+Just a sample test project using WDIO.
+https://webdriver.io/
